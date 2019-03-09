@@ -3,6 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+dist/
+cert/
 
 # Other files and folders
 .settings/
@@ -16,6 +18,7 @@ cert/
 *.apk
 *.p12
 *.mobileprovision
+*.cer
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
